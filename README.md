@@ -39,14 +39,17 @@ platform :ios, "8.0"
 target "baiduMapTest" do
 
 pod 'Amap3DMap'
+
 pod 'AmapSearch'
+
 pod 'AmapLocation'
 
 end
 
 
-## 运行项目出现的问题都可以给我留言或者直接加我的 QQ 联系，我会尽快回复。
+## 如果有不懂的地方可以[邮箱](Keen_Team@163.com)。
+## 运行项目出现的问题都可以给我留言或者直接加我的 QQ:812144991 联系，我会尽快回复。
 
-## [github下载地址](https://github.com/KeenTeam1990/KTDanTang.git) 
+## [github下载地址](https://github.com/KeenTeam1990/Baidu-Gaode-Map.git) 
 
 ## 喜欢的朋友希望可以给个 Star，十分感谢您的支持！~
